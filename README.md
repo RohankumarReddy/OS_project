@@ -22,9 +22,11 @@ A basic terminal-based menu-driven C program that demonstrates the use of system
 ## 🧑‍💻 How to Compile and Run
 
 ```bash
+1.IMPORT ALL THE FILES IN THE REPO
+2.IF USING LINUX: 
 gcc OS_project.c -o OS_project
 ./OS_project
 
-If on WINDOWS:
+3.IF USING WINDOWS:
 gcc OS_project.c -o OS_project.exe
 OS_project.exe
